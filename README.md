@@ -1,3 +1,8 @@
-# volce-api
-A unoffical Jimeng API wrapper.
-[Endpoint](https://ark.cn-beijing.volces.com/api/v3)
+# volces-api
+
+An unofficial, asynchronous Python API wrapper for Jimeng (火山引擎 - Volcengine AI image and video generation platform). Built on top of `httpx` for fast, non-blocking requests.
+
+## Installation
+
+```bash
+pip install volces-api
